@@ -1,0 +1,40 @@
+{
+    "respondents": 87569,
+    "averageLanguages": 5.030376046317761,
+    "topLanguages": [
+        {"name": "JavaScript", "count": 59219},
+        {"name": "HTML/CSS", "count": 55466},
+        {"name": "SQL", "count": 47544},
+        {"name": "Python", "count": 36443},
+        {"name": "Java", "count": 35917},
+        {"name": "Bash/Shell/PowerShell", "count": 31991},
+        {"name": "C#", "count": 27097},
+        {"name": "PHP", "count": 23030},
+        {"name": "C++", "count": 20524},
+        {"name": "TypeScript", "count": 18523}
+    ],
+    "topPairs": [
+        {"pair": "HTML/CSS + JavaScript", "count": 49070},
+        {"pair": "JavaScript + SQL", "count": 37154},
+        {"pair": "HTML/CSS + SQL", "count": 36055},
+        {"pair": "Java + JavaScript", "count": 25023},
+        {"pair": "JavaScript + Python", "count": 23767},
+        {"pair": "HTML/CSS + Java", "count": 23258},
+        {"pair": "Bash/Shell/PowerShell + JavaScript", "count": 22869},
+        {"pair": "HTML/CSS + Python", "count": 22532},
+        {"pair": "Bash/Shell/PowerShell + HTML/CSS", "count": 21910},
+        {"pair": "Java + SQL", "count": 21634}
+    ],
+    "bestPartners": [
+        {"language": "JavaScript", "partner": "HTML/CSS", "count": 49070},
+        {"language": "SQL", "partner": "JavaScript", "count": 37154},
+        {"language": "Java", "partner": "JavaScript", "count": 25023},
+        {"language": "Python", "partner": "JavaScript", "count": 23767},
+        {"language": "Bash/Shell/PowerShell", "partner": "JavaScript", "count": 22869},
+        {"language": "PHP", "partner": "JavaScript", "count": 20298},
+        {"language": "C#", "partner": "JavaScript", "count": 20108},
+        {"language": "TypeScript", "partner": "JavaScript", "count": 17160},
+        {"language": "C++", "partner": "JavaScript", "count": 12510},
+        {"language": "C", "partner": "C++", "count": 12162}
+    ]
+}
