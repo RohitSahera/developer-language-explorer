@@ -1,0 +1,26 @@
+========================================
+          JAVA PROJECT ANALYZER
+========================================
+
+Generated At : 2026-10-09 19:42:15
+
+PROJECT SUMMARY
+----------------------------------------
+Java Files       : 7
+Total Lines      : 571
+Total Classes    : 7
+Total Methods    : 24
+
+FILE DETAILS
+----------------------------------------
+CsvReader.java | 41 lines | 1 classes | 1 methods | 1 comment lines | 2.44%
+LanguagePair.java | 25 lines | 1 classes | 6 methods | 0 comment lines | 0.00%
+LanguagePartner.java | 22 lines | 1 classes | 4 methods | 0 comment lines | 0.00%
+LanguageProcessor.java | 143 lines | 1 classes | 8 methods | 5 comment lines | 3.50%
+Main.java | 183 lines | 1 classes | 1 methods | 27 comment lines | 14.75%
+ReportGenerator.java | 142 lines | 1 classes | 1 methods | 18 comment lines | 12.68%
+Respondent.java | 15 lines | 1 classes | 3 methods | 0 comment lines | 0.00%
+
+========================================
+             END OF REPORT
+========================================
